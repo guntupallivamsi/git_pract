@@ -3,4 +3,4 @@ for i in range(2, 30, 2):
 
 l = [1,2,3,4,5]
 
-print(max(l))
+print(max(l), min(l))
